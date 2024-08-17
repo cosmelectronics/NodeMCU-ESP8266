@@ -6,12 +6,12 @@ This project demonstrates how to control two LEDs (red and green) using an ESP82
 - ESP8266 Board (e.g., NodeMCU)
 - Red LED
 - Green LED
-- Resistors (220 ohms recommended)
+- Resistors (100 ohms recommended)
 - Breadboard and jumper wires
 
 ## Circuit Diagram
-- **Red LED**: Connected to GPIO 5 (D1) with a 220 ohm resistor.
-- **Green LED**: Connected to GPIO 4 (D2) with a 220 ohm resistor.
+- **Red LED**: Connected to GPIO 14 (D5) with a 100 ohm resistor.
+- **Green LED**: Connected to GPIO 4 (D2) with a 100 ohm resistor.
 - **Ground**: Both LEDs are grounded to GND.
 
 ## How It Works
