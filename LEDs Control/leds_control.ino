@@ -1,7 +1,7 @@
 // This Code is Designed by Prince Kushwaha
 
 // Define the GPIO pins for the LEDs
-#define RED_LED_PIN 5   // GPIO 5 (D1)
+#define RED_LED_PIN 14   // GPIO 14 (D5)
 #define GREEN_LED_PIN 4 // GPIO 4 (D2)
 
 void setup() {
