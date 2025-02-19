@@ -1,4 +1,4 @@
-# Pulse Sensor & DS18B20 with ESP8266 (Arduino IoT Cloud)
+# IoT based Health Monitoring System
 
 ## Overview
 This project interfaces a **Pulse Sensor** and **DS18B20 Temperature Sensor** with an **ESP8266 (NodeMCU)** and integrates it with **Arduino IoT Cloud**. The collected data is sent to the cloud for monitoring.
