@@ -23,7 +23,7 @@ This project interfaces a **Pulse Sensor** and **DS18B20 Temperature Sensor** wi
 | DS18B20 Data Pin | D4         |
 | DS18B20 VCC      | 3.3V       |
 | DS18B20 GND      | GND        |
-| 10KΩ Resistor    | Between VCC & Data Pin |
+| 4.7KΩ Resistor   | Between VCC & Data Pin |
 
 ## Setup Instructions
 1. Connect the components as per the connection diagram.
